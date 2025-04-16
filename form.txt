@@ -1,0 +1,7 @@
+What is the difference between GET and POST methods in forms?
+
+    GET: Sends data in the URL. Best for non-sensitive data and bookmarking.
+
+    POST: Sends data in the request body. Ideal for sensitive information, like passwords.
+
+What happens when a form is submitted without a required input? The browser prevents submission and typically displays a validation message near the input field.

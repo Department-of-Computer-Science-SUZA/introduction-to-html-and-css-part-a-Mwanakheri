@@ -1,0 +1,3 @@
+What is the purpose of the <head> section in HTML? The <head> section contains metadata about the webpage. It includes elements like the title (displayed on the browser tab), links to external CSS and JavaScript files, viewport settings, and other meta-information necessary for the page's functionality.
+
+Why do we use semantic tags like <section>, <article>, and <footer>? Semantic tags provide meaning to the structure of the HTML. They improve accessibility, SEO, and maintainability by clearly defining the purpose of content sections.

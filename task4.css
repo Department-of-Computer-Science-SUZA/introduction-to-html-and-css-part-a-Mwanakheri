@@ -1,0 +1,12 @@
+/* Using ID Selector */
+#header {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  /* Using Class Selector */
+  .card {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  

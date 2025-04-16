@@ -1,0 +1,6 @@
+Questions:
+
+    How is the DOM different from the HTML file? The DOM (Document Object Model) is a representation of the HTML file in the browser. It's dynamic, allowing real-time interaction and modification through JavaScript, whereas the HTML file itself is static.
+
+    What happens in the browser when you add or delete nodes in the dev tools? When nodes are added or removed in the dev tools, the DOM updates immediately, reflecting the changes visually on the webpage. However, these changes are temporary and don't alter the original HTML file.
+

@@ -1,0 +1,10 @@
+    What’s the difference between inline, internal, and external CSS?
+
+        Inline CSS: Styles directly within the HTML tag (style="color:red").
+
+        Internal CSS: Defined in a <style> tag inside the <head>.
+
+        External CSS: Stored in a separate .css file and linked using <link>.
+
+    How do you resolve conflicting styles between selectors? CSS applies rules based on specificity. Inline styles have the highest priority, followed by IDs, classes, and element selectors. The last defined rule often overrides earlier conflicting rules.
+
